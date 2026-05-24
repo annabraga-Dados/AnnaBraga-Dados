@@ -115,7 +115,9 @@ Mais do que apontar desvios, esta análise permite identificar oportunidades de 
 
 ## Objetivo
 
-Atuar como Analista de Dados Financeiros, contribuindo com análises que embasem decisões mais assertivas e agreguem valor real ao negócio.
+Meu objetivo é atuar na área de Análise de Dados Financeiros fazendo parte de uma equipe comprometida, colaborativa e estratégica, onde os dados não sejam vistos apenas como números, mas como ferramentas para apoiar decisões importantes dentro da empresa.
+
+Quero contribuir com uma visão analítica que ajude a identificar oportunidades, melhorar processos e apoiar a liderança em decisões mais eficientes e sustentáveis para o negócio. Acredito que quem vive a operação diariamente também consegue enxergar oportunidades de melhoria e gerar insights valiosos para o crescimento da empresa.
 
 -----
 
