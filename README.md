@@ -15,28 +15,35 @@
 
 ## Sobre mim
 
-Tenho 25 anos e atuo há 3 anos e meio como Assistente Administrativa, onde desenvolvi uma visão analítica apurada sobre processos, números e resultados.
+Sou formada em Gestão Financeira e possuo certificação pela FGV em Análise das Demonstrações Contábeis. Aos 25 anos, acumulo 3 anos e meio de experiência na área administrativa, com atuação voltada à gestão de processos, análise de indicadores e elaboração de relatórios estratégicos para suporte à tomada de decisão.
 
-Ao longo da minha trajetória, percebi que minha forma natural de trabalhar sempre foi orientada a dados — identificando padrões, questionando informações e buscando embasamento para as decisões que precisavam ser tomadas.
+Também atuei na área de Contas a Pagar, experiência que ampliou minha visão sobre fluxo financeiro, controle de custos e organização orçamentária.
 
-Foi essa característica que me direcionou para a Análise de Dados Financeiros: uma área onde consigo unir minha experiência prática com gestão e processos à capacidade de transformar dados em informações que realmente contribuem para a tomada de decisão.
+Ao longo da minha trajetória, desenvolvi um perfil analítico e orientado a dados, com foco não apenas na execução operacional, mas na interpretação das informações e identificação de oportunidades de melhoria, eficiência e suporte estratégico ao negócio.
+
+A transição para a área de Análise de Dados Financeiros surgiu de forma natural, unindo minha base financeira, experiência prática com indicadores e visão analítica em uma atuação cada vez mais estratégica e orientada à inteligência de dados.
 
 -----
 
 ## Experiência Profissional
 
-### Assistente Administrativa — 3 anos e meio
+### Assistente Administrativa | Imobiliária — 3 anos e meio
 
-Durante minha atuação como assistente administrativa, desenvolvi competências que são diretamente aplicáveis à análise de dados:
+Atuação ampla e autônoma como única colaboradora administrativa da empresa, com responsabilidade direta sobre processos operacionais, financeiros e estratégicos.
 
-- 📋 Organização e controle de informações e documentos
-- 📊 Elaboração e acompanhamento de planilhas e relatórios
-- 🔍 Análise de dados operacionais e financeiros do dia a dia
-- 📈 Acompanhamento de indicadores e metas
-- 🤝 Suporte à gestão na tomada de decisões com base em dados
-- ⚙️ Melhoria de processos internos com foco em eficiência
+📊 Desenvolvimento de indicadores de performance comercial, com criação de métricas mensais por corretor e por portal imobiliário, auxiliando a diretoria na análise de produtividade, retorno sobre investimento e desempenho comercial
 
------
+💰 Gestão de Contas a Pagar, realizando controle financeiro, organização de pagamentos e acompanhamento do fluxo operacional da empresa
+
+📋 Monitoramento e análise de portais imobiliários, com acompanhamento diário de performance, atualização de planilhas e organização de dados estratégicos
+
+📈 Elaboração de relatórios gerenciais sob demanda para apoiar decisões estratégicas da diretoria e análises de desempenho operacional
+
+🎯 Gestão de metas e remarketing, acompanhando indicadores de conversão e dando suporte ao time comercial no cumprimento de metas estabelecidas
+
+🏆 Condução de reuniões de melhoria de processos, identificando oportunidades operacionais e propondo melhorias com base na visão integrada dos setores da empresa
+
+📄 Suporte jurídico e burocrático em processos de venda, realizando emissão de certidões, conferência documental e acompanhamento das etapas de fechamento de negócios
 
 ## Tecnologias
 
@@ -49,17 +56,48 @@ Durante minha atuação como assistente administrativa, desenvolvi competências
 
 ## Projeto em Destaque
 
-### Orçado x Realizado — Dashboard Financeiro
+### Orçado x Realizado | Dashboard Financeiro Gerencial
 
-Dashboard desenvolvido em Power BI para acompanhamento e análise da execução orçamentária.
+Dashboards financeiros eficazes não apenas apresentam indicadores. Eles direcionam decisões.
 
-*O que o projeto entrega:*
+Este projeto foi desenvolvido em Power BI com foco em análise gerencial e suporte estratégico à tomada de decisão. O objetivo foi estruturar os dados financeiros de forma que os desvios orçamentários fossem transformados em diagnósticos acionáveis para a diretoria.
 
-- 📌 Comparativo entre valores orçados e realizados por período
-- 📌 Identificação de variações e desvios orçamentários
-- 📌 Visualização por categoria, centro de custo e mês
-- 📌 Indicadores de performance financeira (KPIs)
-- 📌 Apoio direto à tomada de decisão da gestão
+O dashboard foi dividido em três frentes analíticas complementares.
+
+**🔍 Página 1 — Visão Geral**
+
+Consolidação do desempenho financeiro dos seis meses analisados, permitindo uma leitura imediata do comportamento entre valores orçados e realizados.
+
+A estrutura da página foi desenvolvida para fornecer uma visão executiva do período, destacando:
+
+desempenho financeiro consolidado;
+setores com maiores desvios;
+comportamento geral da execução orçamentária;
+principais pontos de atenção operacional.
+
+Objetivo analítico: reduzir o tempo de interpretação gerencial e direcionar rapidamente a análise para os setores com maior impacto financeiro.
+
+**📉 Página 2 — Análise Orçamentária**
+
+Aprofundamento dos desvios identificados na visão executiva, permitindo analisar o comportamento orçamentário por setor e por período.
+
+A análise evidenciou que o setor de Logística concentrou os maiores desvios ao longo dos meses analisados. Entretanto, a interpretação dos dados demonstrou que o problema não estava necessariamente associado à ineficiência operacional.
+
+O dashboard foi estruturado para ir além da identificação do desvio e buscar sua causa operacional.
+
+Insight gerado: o crescimento do volume de vendas elevou significativamente a demanda operacional da Logística, enquanto o orçamento do setor permaneceu dimensionado para uma realidade anterior de operação.
+
+Leitura estratégica: o desvio orçamentário, nesse contexto, não representa apenas aumento de custo. Representa incompatibilidade entre crescimento comercial e capacidade operacional planejada.
+
+**💰 Página 3 — Receita e Despesa**
+
+A terceira página conecta os desvios orçamentários ao impacto real na margem financeira da empresa, permitindo uma leitura mais estratégica do cenário apresentado nas páginas anteriores.
+
+A análise demonstra que, embora a Logística tenha sido o principal ofensor orçamentário do período, o desvio não ocorreu isoladamente. O crescimento das vendas de produtos, impulsionado pelo desempenho comercial e pelos investimentos em marketing, elevou significativamente a demanda operacional da empresa.
+
+No entanto, a estrutura orçamentária da Logística permanecia baseada em um volume de vendas inferior ao realizado no período. Como consequência, o setor passou a absorver custos acima do previsto para atender ao aumento da operação, impactando diretamente a margem líquida.
+
+Mais do que apontar desvios, esta análise permite identificar oportunidades de ajuste para os próximos períodos, oferecendo à diretoria uma visão clara sobre quais setores precisam ser reestruturados para sustentar o crescimento da empresa com maior eficiência operacional e financeira.
 
 🔗 [Acessar projeto](#)
 
