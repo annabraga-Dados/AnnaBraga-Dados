@@ -1,4 +1,4 @@
-<h1 align="center">Ana Braga</h1>
+<h1 align="center">Anna Braga</h1>
 
 <p align="center">
   Assistente Administrativa em transição para Análise de Dados Financeiros
