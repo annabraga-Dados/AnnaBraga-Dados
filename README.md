@@ -99,7 +99,7 @@ No entanto, a estrutura orçamentária da Logística permanecia baseada em um vo
 
 Mais do que apontar desvios, esta análise permite identificar oportunidades de ajuste para os próximos períodos, oferecendo à diretoria uma visão clara sobre quais setores precisam ser reestruturados para sustentar o crescimento da empresa com maior eficiência operacional e financeira.
 
-🔗 [Acessar projeto](#)
+🔗 [Acessar projeto no Power BI](https://app.powerbi.com/links/R77FoFO49b?ctid=001142fd-c2ac-4dd3-888c-2ec5dc269041&pbi_source=linkShare&bookmarkGuid=8b6eb781-4d67-45a8-9272-f04192dd43c6)
 
 -----
 
