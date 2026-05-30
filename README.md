@@ -118,7 +118,7 @@ Busco oportunidades onde eu possa unir minha experiência operacional, visão an
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/anna-braga-dados2308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ana%20Braga-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:annabragaconsultoria@gmail.com">
