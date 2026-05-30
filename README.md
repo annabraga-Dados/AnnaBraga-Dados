@@ -1,7 +1,7 @@
 <h1 align="center">Anna Braga</h1>
 
 <p align="center">
-  Assistente Administrativa em transição para Análise de Dados Financeiros
+  Assistente Administrativa com foco em indicadores, performance e análise de dados
 </p>
 
 <p align="center">
@@ -15,37 +15,31 @@
 
 ## Sobre mim
 
-Sou formada em Gestão Financeira e possuo certificação pela FGV em Análise das Demonstrações Contábeis. Aos 25 anos, acumulo 3 anos e meio de experiência na área administrativa, com atuação voltada à gestão de processos, análise de indicadores e elaboração de relatórios estratégicos para suporte à tomada de decisão.
+Sou formada em Gestão Financeira e certificada pela FGV em Análise das Demonstrações Contábeis. Possuo mais de três anos de experiência na área administrativa, atuando diretamente com processos operacionais, indicadores de desempenho, relatórios gerenciais e apoio à tomada de decisão.
 
-Também atuei na área de Contas a Pagar, experiência que ampliou minha visão sobre fluxo financeiro, controle de custos e organização orçamentária.
+Ao longo da minha trajetória, desenvolvi uma atuação fortemente analítica, acompanhando métricas comerciais, desempenho de portais imobiliários, gestão de informações em CRM e construção de controles para monitoramento de resultados.
 
-Ao longo da minha trajetória, desenvolvi um perfil analítico e orientado a dados, com foco não apenas na execução operacional, mas na interpretação das informações e identificação de oportunidades de melhoria, eficiência e suporte estratégico ao negócio.
+Minha experiência foi construída em um ambiente onde a análise dependia muito mais da capacidade de interpretar informações e gerar insights do que da disponibilidade de ferramentas sofisticadas. Por isso, desenvolvi uma visão prática sobre como transformar dados operacionais em informações relevantes para o negócio.
 
-A transição para a área de Análise de Dados Financeiros surgiu de forma natural, unindo minha base financeira, experiência prática com indicadores e visão analítica em uma atuação cada vez mais estratégica e orientada à inteligência de dados.
+Atualmente aprofundo conhecimentos em Power BI, SQL e Python, ampliando minha atuação em análise de dados, indicadores, performance operacional e inteligência de negócios.
 
 -----
 
 ## Experiência Profissional
 
-### Assistente Administrativa | Imobiliária — 3 anos e meio
+### Assistente Administrativa com atuaçaõ em Análise Operacional | Imobiliária — 3 anos e meio
 
-Atuação ampla e autônoma como única colaboradora administrativa da empresa, com responsabilidade direta sobre processos operacionais, financeiros e estratégicos.
+Atuação multifuncional na operação administrativa e comercial de imobiliária de pequeno porte, realizando acompanhamento de indicadores, análise de métricas comerciais e organização de dados operacionais para suporte à tomada de decisão da diretoria. 
 
-📊 Desenvolvimento de indicadores de performance comercial, com criação de métricas mensais por corretor e por portal imobiliário, auxiliando a diretoria na análise de produtividade, retorno sobre investimento e desempenho comercial
+Desenvolvimento de controles e análises em Excel/Google Sheets para acompanhamento da performance de anúncios imobiliários nos principais portais do setor, monitorando métricas como exposição, visualizações, interessados, conversão de leads e desempenho comercial por corretor. 
 
-💰 Gestão de Contas a Pagar, realizando controle financeiro, organização de pagamentos e acompanhamento do fluxo operacional da empresa
+Estruturação de planilhas de acompanhamento operacional segmentadas por equipe comercial, permitindo análise de eficiência dos anúncios em destaque, acompanhamento de performance dos portais e apoio na tomada de decisão sobre manutenção ou substituição de estratégias comerciais.
 
-📋 Monitoramento e análise de portais imobiliários, com acompanhamento diário de performance, atualização de planilhas e organização de dados estratégicos
+ Análise diária do fluxo de leads e controle de informações via CRM, realizando acompanhamento operacional da carteira comercial, validação de atendimento e organização de dados relacionados à operação da empresa. 
 
-📈 Elaboração de relatórios gerenciais sob demanda para apoiar decisões estratégicas da diretoria e análises de desempenho operacional
+Também atua no suporte operacional da equipe, treinamento de usuários do CRM, elaboração de relatórios gerenciais, organização de processos internos e apoio administrativo à diretoria.
 
-🎯 Gestão de metas e remarketing, acompanhando indicadores de conversão e dando suporte ao time comercial no cumprimento de metas estabelecidas
-
-🏆 Condução de reuniões de melhoria de processos, identificando oportunidades operacionais e propondo melhorias com base na visão integrada dos setores da empresa
-
-📄 Suporte jurídico e burocrático em processos de venda, realizando emissão de certidões, conferência documental e acompanhamento das etapas de fechamento de negócios
-
-## Tecnologias
+## Ferramentas e Competências Analíticas
 
 📊 *Business Intelligence:* Power BI  
 📁 *Planilhas:* Excel Avançado  
@@ -105,19 +99,19 @@ Mais do que apontar desvios, esta análise permite identificar oportunidades de 
 
 ## Diferenciais
 
-- Experiência prática em rotinas administrativas e financeiras
-- Visão de negócio aplicada à análise de dados
-- Capacidade de traduzir dados em informações claras e objetivas
-- Perfil analítico desenvolvido na prática, não apenas na teoria
-- Comunicação direta e foco em resultados
+* Experiência prática na construção e acompanhamento de indicadores
+* Capacidade de transformar dados operacionais em informações para tomada de decisão
+* Visão integrada entre operação, desempenho e resultados
+* Forte autonomia na organização e análise de informações
+* Comunicação clara entre áreas operacionais e gestão
 
 -----
 
 ## Objetivo
 
-Meu objetivo é atuar na área de Análise de Dados Financeiros fazendo parte de uma equipe comprometida, colaborativa e estratégica, onde os dados não sejam vistos apenas como números, mas como ferramentas para apoiar decisões importantes dentro da empresa.
+Meu objetivo é atuar em áreas relacionadas à análise de dados, indicadores, performance e inteligência de negócios, contribuindo para a transformação de informações em decisões mais eficientes.
 
-Quero contribuir com uma visão analítica que ajude a identificar oportunidades, melhorar processos e apoiar a liderança em decisões mais eficientes e sustentáveis para o negócio. Acredito que quem vive a operação diariamente também consegue enxergar oportunidades de melhoria e gerar insights valiosos para o crescimento da empresa.
+Busco oportunidades onde eu possa unir minha experiência operacional, visão analítica e desenvolvimento técnico em ferramentas de BI para gerar insights, apoiar a gestão e contribuir para a melhoria contínua dos resultados da empresa.
 
 -----
 
