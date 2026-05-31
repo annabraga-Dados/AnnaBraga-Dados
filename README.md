@@ -27,7 +27,7 @@ Atualmente aprofundo conhecimentos em Power BI, SQL e Python, direcionando minha
 
 ## Experiência Profissional
 
-### Analista Administrativo Financeira Jr. 
+### ASSISTENTE ADMINISTRATIVO 
 EGIOVANELLI NEGÓCIOS IMOBILIÁRIOS — Outubro 2022 – Presente
 
 - Elaborei relatórios gerenciais mensais com análise completa do funil de leads: volume total por portal (160–200 leads/mês), qualidade dos cadastros recebidos, distribuição por corretor e rastreamento de origem das visitas realizadas, fornecendo à diretoria visibilidade total da operação comercial.
