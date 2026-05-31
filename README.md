@@ -1,7 +1,7 @@
 <h1 align="center">Anna Braga</h1>
 
 <p align="center">
-  Assistente Administrativa com foco em indicadores, performance e análise de dados
+  Analista Administrativo Financeira Jr. | Excel Avançado | Power BI | Relatórios Gerenciais | KPIs
 </p>
 
 <p align="center">
@@ -15,36 +15,35 @@
 
 ## Sobre mim
 
-Sou formada em Gestão Financeira e certificada pela FGV em Análise das Demonstrações Contábeis. Possuo mais de três anos de experiência na área administrativa, atuando diretamente com processos operacionais, indicadores de desempenho, relatórios gerenciais e apoio à tomada de decisão.
+Formada em Gestão Financeira (UniSignorelli) e certificada pela FGV em Análise das Demonstrações Contábeis. Atuo há quase 3 anos em administração financeira e operacional, com experiência em DRE, fluxo de caixa, contas a pagar e receber, conciliação bancária e controle orçamentário (Orçado x Realizado).
 
-Ao longo da minha trajetória, desenvolvi uma atuação fortemente analítica, acompanhando métricas comerciais, desempenho de portais imobiliários, gestão de informações em CRM e construção de controles para monitoramento de resultados.
+Na imobiliária onde atuo, estruturei análises mensais de funil de leads (160–200/mês), retorno por portal de captação e performance individual de 7 corretores, entregando relatórios gerenciais que subsidiaram decisões estratégicas da diretoria.
 
-Minha experiência foi construída em um ambiente onde a análise dependia muito mais da capacidade de interpretar informações e gerar insights do que da disponibilidade de ferramentas sofisticadas. Por isso, desenvolvi uma visão prática sobre como transformar dados operacionais em informações relevantes para o negócio.
+Paralelamente, prestei consultoria financeira autônoma a microempreendedores, elaborando DRE, fluxo de caixa e controles personalizados em Excel avançado.
 
-Atualmente aprofundo conhecimentos em Power BI, SQL e Python, ampliando minha atuação em análise de dados, indicadores, performance operacional e inteligência de negócios.
+Atualmente aprofundo conhecimentos em Power BI, SQL e Python, direcionando minha carreira para análise financeira e de dados.
 
 -----
 
 ## Experiência Profissional
 
-### Assistente Administrativa com atuaçaõ em Análise Operacional | Imobiliária — 3 anos e meio
+### Analista Administrativo Financeira Jr. 
+EGIOVANELLI NEGÓCIOS IMOBILIÁRIOS — Outubro 2022 – Presente
 
-Atuação multifuncional na operação administrativa e comercial de imobiliária de pequeno porte, realizando acompanhamento de indicadores, análise de métricas comerciais e organização de dados operacionais para suporte à tomada de decisão da diretoria. 
+- Elaborei relatórios gerenciais mensais com análise completa do funil de leads: volume total por portal (160–200 leads/mês), qualidade dos cadastros recebidos, distribuição por corretor e rastreamento de origem das visitas realizadas, fornecendo à diretoria visibilidade total da operação comercial.
+- Realizei análise de retorno por portal de captação, cruzando investimento mensal, volume e qualidade dos leads recebidos e origem das vendas fechadas, subsidiando decisões da diretoria sobre realocação de verba entre ImovelWeb, ZAP e Chaves na Mão.
+- Monitorei a performance individual dos 7 corretores, consolidando ranking mensal de visitas realizadas, propostas e fechamentos (vendas e aluguéis), identificando gargalos entre recebimento de lead, visita e conversão.
+- Desenvolvi controles em Excel e Google Sheets para monitorar mais de 350 anúncios em destaque no ImovelWeb, Chaves na Mão e ZAP Imóveis, analisando exposição, visualizações e contatos gerados para subsidiar decisões de investimento nos portais.
+- Estruturei planilhas segmentadas por corretor com indicadores de carteira ativa, visitas, propostas e vendas, viabilizando análises de eficiência individual e suporte à definição de estratégias comerciais pela diretoria.
+- Prestei suporte operacional à equipe, ministrei treinamentos sobre CRM e otimizei processos internos.
 
-Desenvolvimento de controles e análises em Excel/Google Sheets para acompanhamento da performance de anúncios imobiliários nos principais portais do setor, monitorando métricas como exposição, visualizações, interessados, conversão de leads e desempenho comercial por corretor. 
+### Consultora Financeira Autônoma (Freelance) 
+Atendimento a Microempreendedores — 2022 - 2024
 
-Estruturação de planilhas de acompanhamento operacional segmentadas por equipe comercial, permitindo análise de eficiência dos anúncios em destaque, acompanhamento de performance dos portais e apoio na tomada de decisão sobre manutenção ou substituição de estratégias comerciais.
-
- Análise diária do fluxo de leads e controle de informações via CRM, realizando acompanhamento operacional da carteira comercial, validação de atendimento e organização de dados relacionados à operação da empresa. 
-
-Também atua no suporte operacional da equipe, treinamento de usuários do CRM, elaboração de relatórios gerenciais, organização de processos internos e apoio administrativo à diretoria.
-
-## Ferramentas e Competências Analíticas
-
-📊 *Business Intelligence:* Power BI  
-📁 *Planilhas:* Excel Avançado  
-🗄️ *Banco de Dados:* SQL  
-🐍 *Programação:* Python | Pandas (em desenvolvimento)
+- Prestei consultoria financeira a microempreendedores (MEI), estruturando as finanças de pequenos negócios e apoiando decisões estratégicas com base em dados.
+- Elaborei DRE, fluxo de caixa, relatórios financeiros e controle orçamentário (Orçado x Realizado), identificando desvios e propondo ajustes corretivos.
+- Realizei o controle de contas a pagar e receber e a conciliação bancária, garantindo a organização e a precisão das informações financeiras.
+- Desenvolvi planilhas personalizadas em Excel avançado (PROCV, ÍNDICE+CORRESP e tabelas dinâmicas) para controle financeiro de cada cliente.
 
 -----
 
@@ -58,20 +57,20 @@ Este projeto foi desenvolvido em Power BI com foco em análise gerencial e supor
 
 O dashboard foi dividido em três frentes analíticas complementares.
 
-**🔍 Página 1 — Visão Geral**
+*🔍 Página 1 — Visão Geral*
 
 Consolidação do desempenho financeiro dos seis meses analisados, permitindo uma leitura imediata do comportamento entre valores orçados e realizados.
 
 A estrutura da página foi desenvolvida para fornecer uma visão executiva do período, destacando:
 
-desempenho financeiro consolidado;
-setores com maiores desvios;
-comportamento geral da execução orçamentária;
-principais pontos de atenção operacional.
+- Desempenho financeiro consolidado
+- Setores com maiores desvios
+- Comportamento geral da execução orçamentária
+- Principais pontos de atenção operacional
 
 Objetivo analítico: reduzir o tempo de interpretação gerencial e direcionar rapidamente a análise para os setores com maior impacto financeiro.
 
-**📉 Página 2 — Análise Orçamentária**
+*📉 Página 2 — Análise Orçamentária*
 
 Aprofundamento dos desvios identificados na visão executiva, permitindo analisar o comportamento orçamentário por setor e por período.
 
@@ -83,7 +82,7 @@ Insight gerado: o crescimento do volume de vendas elevou significativamente a de
 
 Leitura estratégica: o desvio orçamentário, nesse contexto, não representa apenas aumento de custo. Representa incompatibilidade entre crescimento comercial e capacidade operacional planejada.
 
-**💰 Página 3 — Receita e Despesa**
+*💰 Página 3 — Receita e Despesa*
 
 A terceira página conecta os desvios orçamentários ao impacto real na margem financeira da empresa, permitindo uma leitura mais estratégica do cenário apresentado nas páginas anteriores.
 
@@ -97,21 +96,35 @@ Mais do que apontar desvios, esta análise permite identificar oportunidades de 
 
 -----
 
+## Ferramentas e Competências
+
+📊 *Business Intelligence:* Power BI | DAX
+
+📁 *Planilhas:* Excel Avançado | Google Sheets
+
+🗄️ *Banco de Dados:* SQL Básico
+
+🐍 *Programação:* Python | Pandas (em desenvolvimento)
+
+📈 *Análise Financeira:* DRE | Fluxo de Caixa | Conciliação Bancária | Orçado x Realizado
+
+📋 *Gestão:* Relatórios Gerenciais | KPIs | CRM Imobiliário
+
+-----
+
 ## Diferenciais
 
-* Experiência prática na construção e acompanhamento de indicadores
-* Capacidade de transformar dados operacionais em informações para tomada de decisão
-* Visão integrada entre operação, desempenho e resultados
-* Forte autonomia na organização e análise de informações
-* Comunicação clara entre áreas operacionais e gestão
+- Experiência prática em análise financeira e operacional com entrega de relatórios gerenciais para diretoria
+- Capacidade de transformar dados operacionais em informações estratégicas para tomada de decisão
+- Visão integrada entre financeiro, operação e resultados comerciais
+- Forte autonomia na organização, análise e consolidação de informações
+- Comunicação clara entre áreas operacionais e gestão
 
 -----
 
 ## Objetivo
 
-Meu objetivo é atuar em áreas relacionadas à análise de dados, indicadores, performance e inteligência de negócios, contribuindo para a transformação de informações em decisões mais eficientes.
-
-Busco oportunidades onde eu possa unir minha experiência operacional, visão analítica e desenvolvimento técnico em ferramentas de BI para gerar insights, apoiar a gestão e contribuir para a melhoria contínua dos resultados da empresa.
+Atuar em análise financeira e de dados, contribuindo para a transformação de informações em decisões mais eficientes. Busco oportunidades onde possa unir experiência em gestão financeira, visão analítica e desenvolvimento técnico em ferramentas de BI para gerar insights, apoiar a gestão e contribuir para a melhoria contínua dos resultados da empresa.
 
 -----
 
@@ -119,7 +132,7 @@ Busco oportunidades onde eu possa unir minha experiência operacional, visão an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anna-braga-dados2308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Braga-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Anna%20Braga-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:annabragaconsultoria@gmail.com">
     <img src="https://img.shields.io/badge/Email-annabragaconsultoria%40gmail.com-red?style=for-the-badge&logo=gmail"/>
