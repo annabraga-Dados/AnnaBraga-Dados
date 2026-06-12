@@ -1,7 +1,7 @@
 <h1 align="center">Anna Braga</h1>
 
 <p align="center">
-  Analista Administrativo Financeira Jr. | Excel Avançado | Power BI | Relatórios Gerenciais | KPIs
+  Analista de Dados Financeiros Jr. | Power BI | Excel Avançado | SQL | Indicadores de Desempenho
 </p>
 
 <p align="center">
@@ -15,13 +15,15 @@
 
 ## Sobre mim
 
-Formada em Gestão Financeira (UniSignorelli) e certificada pela FGV em Análise das Demonstrações Contábeis. Atuo há quase 3 anos em administração financeira e operacional, com experiência em DRE, fluxo de caixa, contas a pagar e receber, conciliação bancária e controle orçamentário (Orçado x Realizado).
+Formada em Gestão Financeira (UniSignorelli) e certificada pela FGV em Análise das Demonstrações Contábeis. Possuo experiência em rotinas administrativas, financeiras e operacionais, atuando diretamente na elaboração de relatórios gerenciais, análise de indicadores e acompanhamento de performance comercial.
 
-Na imobiliária onde atuo, estruturei análises mensais de funil de leads (160–200/mês), retorno por portal de captação e performance individual de 7 corretores, entregando relatórios gerenciais que subsidiaram decisões estratégicas da diretoria.
+Na imobiliária onde atuo atualmente, desenvolvi controles e relatórios para análise do funil de leads, retorno dos portais de captação e desempenho individual dos corretores, fornecendo informações que apoiam a tomada de decisão da diretoria.
 
-Paralelamente, prestei consultoria financeira autônoma a microempreendedores, elaborando DRE, fluxo de caixa e controles personalizados em Excel avançado.
+Paralelamente, prestei consultoria financeira para microempreendedores, elaborando DRE, fluxo de caixa, controle orçamentário e relatórios financeiros em Excel avançado.
 
-Atualmente aprofundo conhecimentos em Power BI, SQL e Python, direcionando minha carreira para análise financeira e de dados.
+Buscando direcionar minha carreira para a área de dados, venho aprofundando conhecimentos em Power BI, DAX, SQL e Python, desenvolvendo projetos voltados para análise financeira, construção de indicadores e geração de insights para negócios.
+
+Meu objetivo é unir minha experiência financeira e operacional à análise de dados, transformando informações em decisões estratégicas que gerem resultados para a empresa.
 
 -----
 
@@ -98,17 +100,19 @@ Mais do que apontar desvios, esta análise permite identificar oportunidades de 
 
 ## Ferramentas e Competências
 
-📊 *Business Intelligence:* Power BI | DAX
+📊 Business Intelligence: Power BI | DAX
 
-📁 *Planilhas:* Excel Avançado | Google Sheets
+📁 Análise de Dados: Excel Avançado | Google Sheets
 
-🗄️ *Banco de Dados:* SQL Básico
+🗄️ Banco de Dados: SQL Básico (SELECT, WHERE, ORDER BY e JOIN)
 
-🐍 *Programação:* Python | Pandas (em desenvolvimento)
+🐍 Programação: Python Básico | Pandas
 
-📈 *Análise Financeira:* DRE | Fluxo de Caixa | Conciliação Bancária | Orçado x Realizado
+📈 Análise Financeira: DRE | Fluxo de Caixa | Conciliação Bancária | Orçado x Realizado
 
-📋 *Gestão:* Relatórios Gerenciais | KPIs | CRM Imobiliário
+📋 Indicadores e Gestão: KPIs | Relatórios Gerenciais | Dashboards | CRM Imobiliário
+
+🔍 Análise Operacional: Funil de Leads | Performance Comercial | Indicadores de Conversão
 
 -----
 
